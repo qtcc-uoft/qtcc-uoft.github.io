@@ -181,6 +181,7 @@ exclude:
   - vendor
   - _pages/profiles.md
   - _pages/books.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
