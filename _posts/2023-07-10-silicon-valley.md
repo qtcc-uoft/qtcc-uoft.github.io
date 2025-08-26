@@ -1,9 +1,12 @@
 ---
+layout: post
 title: "How Legit is the Ending of HBO's Silicon Valley?"
 date: 2023-07-10
----
 
+---
+<div class="row mt-3">
  {% include figure.liquid loading="eager" path="assets/blog/silicon_valley/mv5bodqwodk5njcxof5bml5banbnxkftztgwmdmwmdgyntm40._v1_.jpg" class="img-fluid rounded z-depth-1" %} 
+ </div>
 
 \[image credit - HBO or whoever\]
 

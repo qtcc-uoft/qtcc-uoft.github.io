@@ -2,6 +2,8 @@
 layout: page
 title: miscellanious
 permalink: /miscellanious/
+nav: true
+nav_order: 6
 subtitle: 
 
 ---
