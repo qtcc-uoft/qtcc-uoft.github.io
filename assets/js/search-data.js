@@ -96,7 +96,7 @@ ninja.data = [{
         
           title: "How Legit is the Ending of HBO&#39;s Silicon Valley?",
         
-        description: "",
+        description: "this is what included images could look like",
         section: "Posts",
         handler: () => {
           
@@ -161,18 +161,11 @@ ninja.data = [{
           window.open("mailto:%71%74%63%63@%63%73.%74%6F%72%6F%6E%74%6F.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=RjCV7ewAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=eEwDnlcAAAAJ", "_blank");
         },
       },{
         id: 'social-whatsapp',
