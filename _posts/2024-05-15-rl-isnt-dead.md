@@ -1,6 +1,10 @@
 ---
+layout: post
 title: "RL isn't dead because of the Decision Transformer"
 date: 2024-05-15
+description: Beginning of my haterade arc.
+tags: 
+categories: rl
 ---
 
 This is a direct response to [this blog post](https://ai.plainenglish.io/reinforcement-learning-is-dead-long-live-the-transformer-228835689841) so you should probably read that first before reading this. It's a Medium article and so is paywalled, but you should be able to use [this Google cache](http://webcache.googleusercontent.com/search?q=cache:https://ai.plainenglish.io/reinforcement-learning-is-dead-long-live-the-transformer-228835689841&sca_esv=1cbe4b6585e2caa3&strip=1&vwsrc=0) to read it.

@@ -1,6 +1,10 @@
 ---
+layout: post
 title: "Goodbye Boston University"
 date: 2024-05-14
+description: Go Terriers!
+tags: 
+categories: grad_school
 ---
 
 I think I wrote somewhere that his blog would be mostly technical with little other riffraff, but I don't graduate from school all that often so I figured it would be OK to indulge in a post about other stuff. I have more legitimate topics I want to write about, I just haven't found the time for it yet with school wrapping up.

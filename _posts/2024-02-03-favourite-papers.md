@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "My Top 5* Favorite Papers"
+description: Well, in early 2024 at least.
 date: 2024-02-03
 tags: 
   - "ai"
@@ -9,6 +11,7 @@ tags:
   - "machine-learning"
   - "technology"
   - "technology"
+categories: ml, rl
 ---
 
 Recently (well, like a month and a half ago now) for a grad school interview a professor asked me to send them my 5 favorite papers, with some explanation for each. I had a lot of fun thinking about and writing the descriptions, so I figured I would put it somewhere permanent.

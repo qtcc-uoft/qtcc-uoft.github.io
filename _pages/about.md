@@ -17,6 +17,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm Quentin, currently a Ph.D. student in Computer Science at the University of Toronto. I'm part of the [Robot Vision and Learning (RVL)](https://rvl.cs.toronto.edu/) group, and I'm advised by Prof. [Florian Shkurti](https://www.cs.toronto.edu/~florian/). Before this, I received a B.A. in Philosophy and a B.S. in Computer Engineering from Boston University. 
+I'm Quentin, currently a Ph.D. student in Computer Science at the (University of Toronto)[https://www.utoronto.ca/]. I'm part of the [Robot Vision and Learning (RVL)](https://rvl.cs.toronto.edu/) group advised by [Florian Shkurti](https://www.cs.toronto.edu/~florian/). I am primarily interested in learned sequential decision-making, especially Reinforcement Learning. Some of the things I have been thinking about recently are
+- How can agents learn useful, transferable skills from unstructured data?
+- Can we enable agents to learn both planning and control without explicit hierarchy?
+- How can robotic agents learn high-level planning without simply scaling up data?
 
-I am primarily interested in learned sequential decision-making, especially Reinforcement Learning. On the philosophy side, I enjoy thinking about Buddhist philosophy and existential risk problems.
+Before this, I received a B.A. in Philosophy and a B.S. in Computer Engineering from (Boston University)[https://www.bu.edu/admissions/why-bu/academics/majors/dual-degree-programs/]. On the philosophy side, I enjoy thinking about Buddhist philosophy and existential risk problems.
+
+
