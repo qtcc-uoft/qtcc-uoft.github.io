@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-miscellanious",
           title: "miscellanious",
           description: "",
@@ -41,7 +34,7 @@ ninja.data = [{
         
           title: "Can Black Ops Zombies teach us about something about hard search problems?",
         
-        description: "",
+        description: "It&#39;s in your heeeadddd, in your heeadddd, zombie, zombie, zombie.",
         section: "Posts",
         handler: () => {
           
@@ -52,7 +45,7 @@ ninja.data = [{
         
           title: "RL isn&#39;t dead because of the Decision Transformer",
         
-        description: "",
+        description: "Beginning of my haterade arc.",
         section: "Posts",
         handler: () => {
           
@@ -63,7 +56,7 @@ ninja.data = [{
         
           title: "Goodbye Boston University",
         
-        description: "",
+        description: "Go Terriers!",
         section: "Posts",
         handler: () => {
           
@@ -74,7 +67,7 @@ ninja.data = [{
         
           title: "My Top 5* Favorite Papers",
         
-        description: "",
+        description: "Well, in early 2024 at least.",
         section: "Posts",
         handler: () => {
           
@@ -85,7 +78,7 @@ ninja.data = [{
         
           title: "Adam with B1 = 0 is RMSProp with warmup",
         
-        description: "",
+        description: "Perhaps unsurprisingly.",
         section: "Posts",
         handler: () => {
           
@@ -96,7 +89,7 @@ ninja.data = [{
         
           title: "How Legit is the Ending of HBO&#39;s Silicon Valley?",
         
-        description: "this is what included images could look like",
+        description: "TLDR it&#39;s sort of legit.",
         section: "Posts",
         handler: () => {
           
@@ -173,6 +166,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://wa.me/4258024776", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://qtcc.github.io/assets/pdf/resume_fall_25.pdf", "_blank");
         },
       },{
       id: 'light-theme',
