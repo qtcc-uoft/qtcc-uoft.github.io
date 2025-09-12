@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/miscellanious/";
           },
-        },{id: "post-can-black-ops-zombies-teach-us-about-something-about-hard-search-problems",
+        },{id: "post-reflections-on-rlc-2025",
+        
+          title: "Reflections on RLC 2025",
+        
+        description: "Dr. Sutton, or How I Reinforcement Learned to Stop Worrying and Love Compute",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/rlc-reflections/";
+          
+        },
+      },{id: "post-on-the-love-of-the-high-variance-player",
+        
+          title: "On the Love of the High-Variance Player",
+        
+        description: "For the love of god please stop ajaxing/giving up dingers",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sports-variance/";
+          
+        },
+      },{id: "post-can-black-ops-zombies-teach-us-about-something-about-hard-search-problems",
         
           title: "Can Black Ops Zombies teach us about something about hard search problems?",
         
@@ -172,7 +194,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://qtcc.github.io/assets/pdf/resume_fall_25.pdf", "_blank");
+          window.open("https://qtcc-uoft.github.io/assets/pdf/resume_fall_25.pdf", "_blank");
         },
       },{
       id: 'light-theme',
