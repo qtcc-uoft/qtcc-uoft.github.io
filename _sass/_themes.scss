@@ -80,18 +80,18 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #{$site-bg-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
+  --global-text-color: #{$site-text-color-dark};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-link-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-theme-color: #{$site-text-color-dark};
+  --global-link-color: #{$site-link-color-dark};
+  --global-hover-color: #{$site-text-color-dark};
   --global-hover-text-color: #{$white-color};
-  --global-header-bg-color: #{$grey-color-light};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
+  --global-header-bg-color: #{$site-header-footer-bg-color-dark};
+  --global-footer-bg-color: #{$site-header-footer-bg-color-dark};
+  --global-footer-text-color: #{$site-text-color-dark};
+  --global-footer-link-color: #{$site-link-color-dark};
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
