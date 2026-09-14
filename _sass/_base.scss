@@ -37,10 +37,10 @@ table {
 
 a,
 table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-link-color);
 
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-link-color);
     text-decoration: underline;
   }
 
@@ -246,12 +246,12 @@ ul.task-list input[type="checkbox"] {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--global-header-bg-color);
   opacity: 0.95;
 }
 
 .navbar .dropdown-menu {
-  background-color: var(--global-bg-color);
+  background-color: var(--global-header-bg-color);
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
