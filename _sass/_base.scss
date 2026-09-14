@@ -39,6 +39,7 @@ table {
 a,
 table.table a {
   color: var(--global-link-color);
+  text-decoration: underline;
 
   &:hover {
     color: var(--global-link-color);
